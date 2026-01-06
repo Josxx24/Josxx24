@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fernando Aldaz</h1>
 <h3 align="center">
-  Software Engineering Student from Ecuador 🇪🇨 <br/>
-  Passionate about backend, frontend, and systems programming
+  💻 Soy estudiante de Ingeniería de Software en la Escuela Politécnica Nacional, con una marcada orientación hacia la innovación tecnológica 📊 y el análisis de datos. Me especializo en el desarrollo de soluciones digitales robustas, integrando principios de ingeniería de software con inteligencia analítica para potenciar la toma de decisiones estratégicas.
+
+🏦 Durante mis pasantías en el área de Riesgo Global del Banco General Rumiñahui, adquirí experiencia práctica en el uso de Power BI 📈 para la creación y mantenimiento del dashboard de continuidad del negocio, así como en la elaboración de planes de contingencia y el manejo avanzado de Excel para análisis de datos y reportes operativos. Esta experiencia fortaleció mi capacidad para transformar datos en información clara, útil y accionable dentro de entornos corporativos exigentes.
+
+🚀 Actualmente, comparto parte de mis proyectos en GitHub 👉 https://github.com/Josxx24
+, donde integro habilidades en programación, visualización de datos y metodologías ágiles. Me motiva colaborar en equipos multidisciplinarios, aprender de manera continua 📚 y contribuir al desarrollo de soluciones tecnológicas con impacto real.
 </h3>
 
 <p align="center">
