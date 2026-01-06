@@ -97,7 +97,3 @@
 
 ---
 
-### 📊 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=josxx24&show_icons=true&locale=en&layout=compact" alt="josxx24" />
-</p>
